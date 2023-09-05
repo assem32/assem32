@@ -1,7 +1,9 @@
-![MasterHead](https://i.ibb.co/51pLWnp/banner.png)
+<img src="https://i.ibb.co/51pLWnp/banner.png" alt="Banner Image" style="width: 100%;">
+
 
 <h1 align="center">Hi 👋, I'm Assem El-Hadid</h1>
 <h3 align="center">A passionate Mobile developer who is interested in Flutter and Native Android development.</h3>
+<a href="https://imgbb.com/"><img align="right" src="https://i.ibb.co/QHPhNMQ/pngwing-com-3.png" alt="pngwing-com-3" border="0"></a>
 
 - 📫 How to reach me **Assemhadidiwork@gmail.com**
 
